@@ -1,0 +1,13 @@
+prefix=D:/EndToEnd/venv/Library
+exec_prefix=D:/EndToEnd/venv/Library
+libdir=D:/EndToEnd/venv/Library/lib
+sharedlibdir=D:/EndToEnd/venv/Library/lib
+includedir=D:/EndToEnd/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
