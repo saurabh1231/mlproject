@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 numpy 
 pandas 
 
 -e .
+=======
+numpy
+pandas 
+#-e .
+>>>>>>> 0944f2e766b95c1afd20147d26c92379417a3ab9
